@@ -20,7 +20,7 @@
     "@devhub/core": "npm:@brunolemos/devhub-core@0.102.1-rc.0",
     "@zeit/next-css": "1.0.1",
     "autoprefixer": "9.6.4",
-    "classnames": "2.2.6",
+    "classnames": "2.5.1",
     "isomorphic-unfetch": "3.1.0",
     "lodash": "4.17.20",
     "next": "10.0.3",
