@@ -19,7 +19,7 @@
   "dependencies": {
     "@devhub/core": "npm:@brunolemos/devhub-core@0.102.1-rc.0",
     "@zeit/next-css": "1.0.1",
-    "autoprefixer": "9.6.4",
+    "autoprefixer": "9.8.8",
     "classnames": "2.2.6",
     "isomorphic-unfetch": "3.1.0",
     "lodash": "4.17.20",
