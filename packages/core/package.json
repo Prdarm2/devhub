@@ -12,9 +12,9 @@
     "prepublish": "yarn compile"
   },
   "dependencies": {
-    "@octokit/rest": "16.43.1",
+    "@octokit/rest": "17.0.0",
     "axios": "0.19.0",
-    "gravatar": "1.8.0",
+    "gravatar": "1.8.1",
     "immer": "4.0.1",
     "json-to-graphql-query": "1.9.0",
     "lodash": "4.17.20",
