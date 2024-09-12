@@ -25,7 +25,7 @@
     "intl": "1.2.5",
     "intl-locales-supported": "1.8.12",
     "react": "17.0.1",
-    "react-native": "0.64.2",
+    "react-native": "0.69.12",
     "react-native-gesture-handler": "1.9.0",
     "react-native-haptic-feedback": "1.11.0",
     "react-native-inappbrowser-reborn": "3.5.1",
