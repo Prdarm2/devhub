@@ -12,7 +12,7 @@
     "prepublish": "yarn compile"
   },
   "dependencies": {
-    "@octokit/rest": "16.43.1",
+    "@octokit/rest": "21.1.1",
     "axios": "0.19.0",
     "gravatar": "1.8.0",
     "immer": "4.0.1",
