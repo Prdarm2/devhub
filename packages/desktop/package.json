@@ -83,7 +83,7 @@
   "dependencies": {
     "@devhub/core": "0.102.0",
     "electron-fetch": "1.7.2",
-    "electron-store": "6.0.1",
+    "electron-store": "8.0.0",
     "electron-updater": "4.3.5",
     "jsonfile": "6.1.0",
     "mkdirp": "1.0.4",
